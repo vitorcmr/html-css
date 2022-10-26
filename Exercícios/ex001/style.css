@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+
+body {background-color: #11151C;
+    font-family:Arial, Helvetica, sans-serif;
+    color: blanchedalmond;
+    font-size: 20px;
+    
+
+    
+    
+
+
+}
+h1 {background-color: #aa1616;
+    color: #000;
+    
+   
+    
+
+}
+
+a{color: #aa1616;
+    text-decoration: none;
+    
+  
+
+}
+a:hover{color: #73c9c9;
+    text-decoration: underline;
+
+}
+a:active {color: #e71111;
+
+}
+
+
+footer {color: #b1b4b8;
+background-color: #06080a;
+
+}
+
+.Lorem{ text-decoration:line-through
+
+}
+
+.menu-de-navegação  {font-size: 2em;
+
+}
+
+div#gay > p {display: none
+
+}
+
+#gay {margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+
+
+div#gay:hover {color: purple;
+
+}
+
+
+    
+
+
+.quadrados{
+background-color: #06080a;
+border: 2px solid #aa1616;
+text-align: center;
+width: 200px;
+height: 200px;
+
+margin-top: 50px;
+transition: 1.5s;
+margin-left: 50px;
+
+}
+
+.box {display: flex;
+    margin-left: 20%;
+
+}
+
+
+
+.box2 h1:hover {background: black;
+  
+
+}
+
+.box2 p {color: black;
+
+}
+
+.box2:hover {color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
